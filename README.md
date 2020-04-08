@@ -1,2 +1,3 @@
-# First-Build
-To Build Using Jenkins
+# maven-project
+
+Simple Maven Project
